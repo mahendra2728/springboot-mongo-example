@@ -1,5 +1,0 @@
-com\pm\mongo\model\Address.class
-com\pm\mongo\repository\UserRepository.class
-com\pm\mongo\model\User.class
-com\pm\mongo\controller\UserRestController.class
-com\pm\mongo\SpringbootMongoDemoApplication.class
